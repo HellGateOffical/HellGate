@@ -6,3 +6,9 @@ HellGate File Binder
 ![image](https://user-images.githubusercontent.com/98554260/151433001-6e4822f9-4043-4763-b59f-596492a0d6c1.png)
 ![image](https://user-images.githubusercontent.com/98554260/151433101-394dafc6-72c6-4cf3-8593-b204b73e5889.png)
 
+# Features
+• Binder 
+• Downloader
+• Options
+• Build 
+
